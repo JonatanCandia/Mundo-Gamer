@@ -1,0 +1,21 @@
+.body{ 
+    background-color: grey;
+}
+.main{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: aliceblue; display: flex; justify-content: center;
+    }
+#Titulo{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:aliceblue; display: flex; justify-content: center;}
+.Productos{ text-align: center; color: beige;}
+.banner{ text-align: center; opacity:0.4;}
+
+.bodyproductos{ background-color: grey;}
+.bodyinicio{background-color: grey; color: antiquewhite;}
+.sesión{ text-align: center;}
+.somosgamer{color: aliceblue;}
+.Texto2{color: white;text-align: center;}
+.Bannergaming{text-align: center; opacity:0.4; }
+.Gaming{color: white;text-align: center;}
+.pc{text-align: center; opacity:0.4;}
+.Info{color: aliceblue;}
+.cuadro-blanco{background-color:white; opacity: 0.4; text-align: center;}
+.note{color: white;text-align: center;}
